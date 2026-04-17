@@ -6,8 +6,6 @@
 
 
 
--- Crear tabla de resultados
-
 BEGIN
     EXECUTE IMMEDIATE 'DROP TABLE RECAUDACION_BONOS_MEDICOS';
 EXCEPTION
